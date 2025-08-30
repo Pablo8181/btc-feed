@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "tabName": "CG_BTC_AllDaily",
+    "sheetId": "1QGq3r3aYRIj6a63V-xAtjzxWQ79Wva575w1WVZsxB7g",
+    "headerRows": 1,
+    "lastNRows": 10,
+    "rows": 10,
+    "cols": 19,
+    "exportedAtUtc": "2025-08-30T06:41:05.861Z"
+  },
+  "columns": [
+    {
+      "short": "Date",
+      "full": "Date (UTC)",
+      "description": "UTC"
+    },
+    {
+      "short": "Unix Time",
+      "full": "Unix Time (ms)",
+      "description": "ms"
+    },
+    {
+      "short": "Price",
+      "full": "Price (USD)",
+      "description": "USD"
+    },
+    {
+      "short": "Market Cap",
+      "full": "Market Cap (USD)",
+      "description": "USD"
+    },
+    {
+      "short": "Total Volume",
+      "full": "Total Volume (USD)",
+      "description": "USD"
+    },
+    {
+      "short": "OHLC Open",
+      "full": "OHLC Open (USD)",
+      "description": "USD"
+    },
+    {
+      "short": "OHLC High",
+      "full": "OHLC High (USD)",
+      "description": "USD"
+    },
+    {
+      "short": "OHLC Low",
+      "full": "OHLC Low (USD)",
+      "description": "USD"
+    },
+    {
+      "short": "OHLC Close",
+      "full": "OHLC Close (USD)",
+      "description": "USD"
+    },
+    {
+      "short": "Global Market Cap",
+      "full": "Global Market Cap (USD)",
+      "description": "USD"
+    },
+    {
+      "short": "Global 24h Volume",
+      "full": "Global 24h Volume (USD)",
+      "description": "USD"
+    },
+    {
+      "short": "Deriv Open Interest",
+      "full": "Deriv Open Interest (USD)",
+      "description": "USD"
+    },
+    {
+      "short": "Deriv 24h Volume",
+      "full": "Deriv 24h Volume (USD)",
+      "description": "USD"
+    },
+    {
+      "short": "Deriv Funding Rate",
+      "full": "Deriv Funding Rate (Annualized, %)",
+      "description": "Annualized, %"
+    },
+    {
+      "short": "Deriv Index Price",
+      "full": "Deriv Index Price (USD)",
+      "description": "USD"
+    },
+    {
+      "short": "Deriv Last Price",
+      "full": "Deriv Last Price (USD)",
+      "description": "USD"
+    },
+    {
+      "short": "Circulating Supply",
+      "full": "Circulating Supply (BTC, derived)",
+      "description": "BTC, derived"
+    },
+    {
+      "short": "1-day Issuance",
+      "full": "1-day Issuance (BTC)",
+      "description": "BTC"
+    },
+    {
+      "short": "Issuance Annualized",
+      "full": "Issuance Annualized (%)",
+      "description": "%"
+    }
+  ],
+  "rows": [
+    {
+      "Date": "2025-08-20T22:00:00.000Z",
+      "Unix Time": 1755739343000,
+      "Price": 114042.61976685599,
+      "Market Cap": 2270216550897.1494,
+      "Total Volume": 41861978699.80136,
+      "OHLC Open": 112896,
+      "OHLC High": 114607,
+      "OHLC Low": 112460,
+      "OHLC Close": 114252,
+      "Global Market Cap": 3963187144182.303,
+      "Global 24h Volume": 159185240938.39975,
+      "Deriv Open Interest": 100974601356.29001,
+      "Deriv 24h Volume": 198656650146.96265,
+      "Deriv Funding Rate": -10.687670222907041,
+      "Deriv Index Price": 114020.90201699173,
+      "Deriv Last Price": 114116.81844895268,
+      "Circulating Supply": 19906737.985660855,
+      "1-day Issuance": -8053.345438465476,
+      "Issuance Annualized": -14.760240447257733
+    },
+    {
+      "Date": "2025-08-21T22:00:00.000Z",
+      "Unix Time": 1755825721000,
+      "Price": 112603.01965506202,
+      "Market Cap": 2240070140762.1846,
+      "Total Volume": 30625239366.659126,
+      "OHLC Open": 114250,
+      "OHLC High": 114723,
+      "OHLC Low": 112023,
+      "OHLC Close": 112414,
+      "Global Market Cap": 3886960923745.62,
+      "Global 24h Volume": 128851365668.00987,
+      "Deriv Open Interest": 100163330762.88002,
+      "Deriv 24h Volume": 165973763493.8252,
+      "Deriv Funding Rate": 17.167627446545918,
+      "Deriv Index Price": 112413.71935268339,
+      "Deriv Last Price": 112414.2983591502,
+      "Circulating Supply": 19893517.488467135,
+      "1-day Issuance": -13220.497193720192,
+      "Issuance Annualized": -24.240443005698584
+    },
+    {
+      "Date": "2025-08-22T22:00:00.000Z",
+      "Unix Time": 1755912134000,
+      "Price": 116704.57354177102,
+      "Market Cap": 2322761247645.0884,
+      "Total Volume": 51105867086.69841,
+      "OHLC Open": 112510,
+      "OHLC High": 117310,
+      "OHLC Low": 111764,
+      "OHLC Close": 116834,
+      "Global Market Cap": 4111795643232.0693,
+      "Global 24h Volume": 218716974570.92093,
+      "Deriv Open Interest": 104341607844.06,
+      "Deriv 24h Volume": 293557031966.69135,
+      "Deriv Funding Rate": 1.2427506494242957,
+      "Deriv Index Price": 116163.58320694345,
+      "Deriv Last Price": 116244.5610426166,
+      "Circulating Supply": 19902915.34559032,
+      "1-day Issuance": 9397.85712318495,
+      "Issuance Annualized": 17.242892575187398
+    },
+    {
+      "Date": "2025-08-23T22:00:00.000Z",
+      "Unix Time": 1755998532000,
+      "Price": 115259.10233831564,
+      "Market Cap": 2296074562926.9277,
+      "Total Volume": 25607006421.104656,
+      "OHLC Open": 116898,
+      "OHLC High": 116957,
+      "OHLC Low": 114583,
+      "OHLC Close": 115360,
+      "Global Market Cap": 4081135354626.7856,
+      "Global 24h Volume": 117902986757.9849,
+      "Deriv Open Interest": 103964404081.20992,
+      "Deriv 24h Volume": 127755668294.30281,
+      "Deriv Funding Rate": 5.608649780757413,
+      "Deriv Index Price": 115304.24890671436,
+      "Deriv Last Price": 115303.26033223767,
+      "Circulating Supply": 19920982.51977833,
+      "1-day Issuance": 18067.174188010395,
+      "Issuance Annualized": 33.13343027449932
+    },
+    {
+      "Date": "2025-08-24T22:00:00.000Z",
+      "Unix Time": 1756084932000,
+      "Price": 112825.42821106347,
+      "Market Cap": 2246386534378.719,
+      "Total Volume": 44362551163.37037,
+      "OHLC Open": 115333,
+      "OHLC High": 115549,
+      "OHLC Low": 112174,
+      "OHLC Close": 113400,
+      "Global Market Cap": 4001578210446.2295,
+      "Global 24h Volume": 173298566616.674,
+      "Deriv Open Interest": 104929457112.7799,
+      "Deriv 24h Volume": 427120319024.046,
+      "Deriv Funding Rate": 0.14984807699338631,
+      "Deriv Index Price": 114577.48601874252,
+      "Deriv Last Price": 114494.5321952041,
+      "Circulating Supply": 19910285.916897964,
+      "1-day Issuance": -10696.602880366147,
+      "Issuance Annualized": -19.598732379074885
+    },
+    {
+      "Date": "2025-08-25T22:00:00.000Z",
+      "Unix Time": 1756171333000,
+      "Price": 109640.34521713974,
+      "Market Cap": 2178366437405.2717,
+      "Total Volume": 59610722853.87745,
+      "OHLC Open": 113423,
+      "OHLC High": 113574,
+      "OHLC Low": 109443,
+      "OHLC Close": 110185,
+      "Global Market Cap": 3847359090255.1816,
+      "Global 24h Volume": 204834439626.102,
+      "Deriv Open Interest": 104861742294.54,
+      "Deriv 24h Volume": 312150147116.17303,
+      "Deriv Funding Rate": 7.540653003496778,
+      "Deriv Index Price": 109412.0646719886,
+      "Deriv Last Price": 109377.0686939617,
+      "Circulating Supply": 19868292.398122936,
+      "1-day Issuance": -41993.518775027245,
+      "Issuance Annualized": -76.9834969565972
+    },
+    {
+      "Date": "2025-08-26T22:00:00.000Z",
+      "Unix Time": 1756257731000,
+      "Price": 111230.22145982605,
+      "Market Cap": 2215033435715.023,
+      "Total Volume": 41379530427.66239,
+      "OHLC Open": 110100,
+      "OHLC High": 112279,
+      "OHLC Low": 109214,
+      "OHLC Close": 111843,
+      "Global Market Cap": 3938743250309.7095,
+      "Global 24h Volume": 155479173473.73883,
+      "Deriv Open Interest": 101978882117.87991,
+      "Deriv 24h Volume": 203283774156.89474,
+      "Deriv Funding Rate": -7.6957697145707655,
+      "Deriv Index Price": 111343.21273994145,
+      "Deriv Last Price": 111316.99567304947,
+      "Circulating Supply": 19913953.300138354,
+      "1-day Issuance": 45660.902015417814,
+      "Issuance Annualized": 83.88355124671936
+    },
+    {
+      "Date": "2025-08-27T22:00:00.000Z",
+      "Unix Time": 1756344121000,
+      "Price": 111554.73617936292,
+      "Market Cap": 2220913057157.412,
+      "Total Volume": 37070118606.5048,
+      "OHLC Open": 111713,
+      "OHLC High": 112555,
+      "OHLC Low": 110464,
+      "OHLC Close": 111216,
+      "Global Market Cap": 3935694924855.59,
+      "Global 24h Volume": 148515390914.9637,
+      "Deriv Open Interest": 100035125732.50002,
+      "Deriv 24h Volume": 189861271182.04514,
+      "Deriv Funding Rate": 5.087732737517503,
+      "Deriv Index Price": 111473.79282789596,
+      "Deriv Last Price": 111402.08714606107,
+      "Circulating Supply": 19908729.411421172,
+      "1-day Issuance": -5223.888717181981,
+      "Issuance Annualized": -9.574790866654165
+    },
+    {
+      "Date": "2025-08-28T22:00:00.000Z",
+      "Unix Time": 1756430504000,
+      "Price": 111648.31888154229,
+      "Market Cap": 2227759008895.6094,
+      "Total Volume": 34117559952.61737,
+      "OHLC Open": 111241,
+      "OHLC High": 113329,
+      "OHLC Low": 110985,
+      "OHLC Close": 112526,
+      "Global Market Cap": 3948029131404.0977,
+      "Global 24h Volume": 137032370111.78143,
+      "Deriv Open Interest": 100155707891.72002,
+      "Deriv 24h Volume": 162320479630.59,
+      "Deriv Funding Rate": 52.20544830539353,
+      "Deriv Index Price": 111877.11471621205,
+      "Deriv Last Price": 111832.17263685667,
+      "Circulating Supply": 19953359.18366347,
+      "1-day Issuance": 44629.77224229649,
+      "Issuance Annualized": 81.82273480040922
+    },
+    {
+      "Date": "2025-08-29T22:00:00.000Z",
+      "Unix Time": 1756516923000,
+      "Price": 108238.86892013284,
+      "Market Cap": 2156072586566.9543,
+      "Total Volume": 51049326536.519394,
+      "OHLC Open": 112513,
+      "OHLC High": 112513,
+      "OHLC Low": 107696,
+      "OHLC Close": 108480,
+      "Global Market Cap": 3837276791060.9946,
+      "Global 24h Volume": 174249382160.9499,
+      "Deriv Open Interest": 101806943303.91002,
+      "Deriv 24h Volume": 263279130818.00702,
+      "Deriv Funding Rate": 19.987860765352195,
+      "Deriv Index Price": 108292.63893418627,
+      "Deriv Last Price": 108210.75226775979,
+      "Circulating Supply": 19919577.949007157,
+      "1-day Issuance": -33781.23465631157,
+      "Issuance Annualized": -61.79486138679275
+    }
+  ]
+}
